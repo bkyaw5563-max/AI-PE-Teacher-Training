@@ -8,10 +8,14 @@
 
 ### Week 1 — AI 체육 융합의 필요성과 기초지식
 
-1. `Week1_AI_Basics/README.md`에서 학습목표와 준비물을 확인합니다.
-2. `Week1_AI_Basics/prompts.md`의 필수 프롬프트를 수행합니다.
-3. `Week1_AI_Basics/practice_tasks.md`의 과제를 정리합니다.
-4. `Week1_AI_Basics/safety_notes.md`를 확인합니다.
+▶ **Scrimba 1주차 전체 교육영상**  
+https://scrimba.com/explain/guide0g5mcq5m0?fullscreen=1
+
+1. 전체 영상을 먼저 시청합니다.
+2. `Week1_AI_Basics/README.md`에서 학습목표와 핵심 내용을 확인합니다.
+3. `Week1_AI_Basics/prompts.md`의 필수 프롬프트를 수행합니다.
+4. `Week1_AI_Basics/practice_tasks.md`의 과제를 정리합니다.
+5. `Week1_AI_Basics/safety_notes.md`를 확인합니다.
 
 ### Week 2 — AI 도구 활용 및 바이브 코딩
 
@@ -26,11 +30,11 @@
 
 ### Week 1
 
-- `Week1_AI_Basics/README.md` : 1주차 학습 안내
+- `Week1_AI_Basics/README.md` : 1주차 학습 안내 및 전체 영상 링크
 - `Week1_AI_Basics/prompts.md` : 학생 실습용 프롬프트 명령어
 - `Week1_AI_Basics/practice_tasks.md` : 실습 과제 및 제출 내용
 - `Week1_AI_Basics/safety_notes.md` : AI 활용 시 주의사항
-- `Week1_AI_Basics/video_guide.md` : 교육용 동영상 학습 안내
+- `Week1_AI_Basics/video_guide.md` : 1주차 전체 Scrimba 교육영상 안내
 
 ### Week 2
 
