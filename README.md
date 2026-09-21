@@ -2,7 +2,7 @@
 
 2026 예비체육교사 AI 융합 역량강화 협력사업을 위한 학생 실습 자료 저장소입니다.
 
-현재 **1주차와 2주차** 학생용 학습 자료를 제공합니다.
+현재 **1주차·2주차·3주차** 학생용 학습 자료를 제공합니다.
 
 ## 학습 순서
 
@@ -19,12 +19,29 @@ https://scrimba.com/explain/guide0g5mcq5m0?fullscreen=1
 
 ### Week 2 — AI 도구 활용 및 바이브 코딩
 
+▶ **Scrimba 2주차 전체 교육영상**  
+https://scrimba.com/explain/guide014qh1a1g?claim=t9plh1efal28voi8&fullscreen=1
+
 1. `Week2_MediaPipe_VibeCoding/README.md`에서 학습 흐름을 확인합니다.
 2. MediaPipe Pose Landmarker 웹 데모에서 신체 랜드마크를 직접 확인합니다.
 3. `Week2_MediaPipe_VibeCoding/prompts.md`의 Antigravity 프롬프트를 순서대로 수행합니다.
 4. AI가 만든 프로그램을 직접 실행하고 수정 전·후 차이를 확인합니다.
 5. `Week2_MediaPipe_VibeCoding/practice_tasks.md`의 제출 항목을 정리합니다.
 6. `Week2_MediaPipe_VibeCoding/safety_notes.md`에서 개인정보·영상정보·결과 검증 주의사항을 확인합니다.
+
+### Week 3 — AI 기반 체육 수업지도안 설계
+
+▶ **Scrimba 3주차 전체 교육영상**  
+https://scrimba.com/explain/guide0c0em9fi8?claim=m4c3pj3irlekpto0&fullscreen=1
+
+1. 전체 영상을 먼저 시청합니다.
+2. `Week3_AI_Lesson_Plan/README.md`에서 3주차 학습목표와 전체 흐름을 확인합니다.
+3. `Week3_AI_Lesson_Plan/prompts.md`의 프롬프트로 지도안 초안을 생성합니다.
+4. 안전·발달단계·성취기준·실제 활동시간·평가계획 연계를 기준으로 초안을 검토합니다.
+5. 성취기준·규칙·수치 등 사실 확인이 필요한 내용을 공식 자료와 대조합니다.
+6. 수정 사항을 반영한 최종 지도안 초안을 만듭니다.
+7. `Week3_AI_Lesson_Plan/practice_tasks.md`의 제출 항목을 정리합니다.
+8. `Week3_AI_Lesson_Plan/safety_notes.md`에서 개인정보·사실검증·교사 최종판단 원칙을 확인합니다.
 
 ## 자료 구성
 
@@ -42,14 +59,22 @@ https://scrimba.com/explain/guide0g5mcq5m0?fullscreen=1
 - `Week2_MediaPipe_VibeCoding/prompts.md` : MediaPipe × Antigravity 학생 실습용 프롬프트
 - `Week2_MediaPipe_VibeCoding/practice_tasks.md` : MediaPipe 관찰 및 바이브 코딩 실습 과제
 - `Week2_MediaPipe_VibeCoding/safety_notes.md` : 랜드마크·관절각도·개인정보·AI 코드 검증 주의사항
-- `Week2_MediaPipe_VibeCoding/video_guide.md` : Scrimba 영상 및 MP4 학습 안내
+- `Week2_MediaPipe_VibeCoding/video_guide.md` : 2주차 전체 Scrimba 영상 안내
+
+### Week 3
+
+- `Week3_AI_Lesson_Plan/README.md` : 3주차 학습 안내 및 전체 영상 링크
+- `Week3_AI_Lesson_Plan/prompts.md` : AI 기반 체육 지도안 설계 학생 실습용 프롬프트
+- `Week3_AI_Lesson_Plan/practice_tasks.md` : 지도안 초안·수정·검증·최종본 제출 안내
+- `Week3_AI_Lesson_Plan/safety_notes.md` : 성취기준·사실검증·개인정보·안전 검토 원칙
+- `Week3_AI_Lesson_Plan/video_guide.md` : 3주차 전체 Scrimba 교육영상 안내
 
 ## 공통 원칙
 
-- 실제 학생의 이름·학번·연락처·얼굴 영상 등 개인정보를 외부 AI 서비스에 입력하지 않습니다.
-- AI가 제시한 규칙·수치·안전 관련 내용은 필요한 경우 공식 자료와 대조합니다.
+- 실제 학생의 이름·학번·연락처·얼굴 영상·건강정보 등 개인정보를 외부 AI 서비스에 입력하지 않습니다.
+- AI가 제시한 성취기준·규칙·수치·안전 관련 내용은 필요한 경우 공식 자료와 대조합니다.
 - MediaPipe와 같은 컴퓨터비전 도구의 결과는 추정값이며 촬영 환경에 영향을 받을 수 있습니다.
-- AI가 생성한 코드는 반드시 직접 실행하고 검증합니다.
-- 실제 수업의 평가와 안전 판단은 교사가 최종 결정합니다.
+- AI가 생성한 코드와 지도안은 반드시 직접 실행·검토·검증합니다.
+- 실제 수업의 목표·활동·평가·안전 판단은 교사가 최종 결정합니다.
 
 > 본 자료의 AI 서비스 화면과 기능은 서비스 업데이트에 따라 달라질 수 있습니다. 중요한 사실·규칙·안전 관련 내용은 공식 자료와 교사의 판단을 통해 확인하세요.
