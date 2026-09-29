@@ -2,7 +2,7 @@
 
 2026 예비체육교사 AI 융합 역량강화 협력사업을 위한 학생 실습 자료 저장소입니다.
 
-현재 **1주차·2주차·3주차** 학생용 학습 자료를 제공합니다.
+현재 **1주차·2주차·3주차·4주차** 학생용 학습 자료를 제공합니다.
 
 ## 학습 순서
 
@@ -43,6 +43,20 @@ https://scrimba.com/explain/guide0c0em9fi8?claim=m4c3pj3irlekpto0&fullscreen=1
 7. `Week3_AI_Lesson_Plan/practice_tasks.md`의 제출 항목을 정리합니다.
 8. `Week3_AI_Lesson_Plan/safety_notes.md`에서 개인정보·사실검증·교사 최종판단 원칙을 확인합니다.
 
+### Week 4 — AI 활용 학생 평가
+
+▶ **Scrimba 4주차 전체 교육영상**  
+https://scrimba.com/explain/guide0u9133ou1?claim=b0v9v248h4frte9k&fullscreen=1
+
+1. 3주차에서 만든 지도안의 학습목표와 핵심 활동을 준비합니다.
+2. `Week4_AI_Assessment/prompts.md`의 1~2번으로 관찰 체크리스트를 만들고 모호한 표현을 수정합니다.
+3. 3~4번으로 상·중·하 루브릭을 만들고 수준 구분을 검토합니다.
+4. 5~6번으로 형평성과 성취기준 연계를 확인합니다.
+5. 7~8번으로 개인정보 보호와 교사 최종판단 원칙을 점검합니다.
+6. 9번으로 최종 체크리스트와 루브릭을 작성합니다.
+7. `Week4_AI_Assessment/practice_tasks.md`의 제출 항목을 정리합니다.
+8. 완성한 지도안과 평가도구를 5주차 팀 프로젝트에 가져갑니다.
+
 ## 자료 구성
 
 ### Week 1
@@ -69,12 +83,21 @@ https://scrimba.com/explain/guide0c0em9fi8?claim=m4c3pj3irlekpto0&fullscreen=1
 - `Week3_AI_Lesson_Plan/safety_notes.md` : 성취기준·사실검증·개인정보·안전 검토 원칙
 - `Week3_AI_Lesson_Plan/video_guide.md` : 3주차 전체 Scrimba 교육영상 안내
 
+### Week 4
+
+- `Week4_AI_Assessment/README.md` : 4주차 학습 안내 및 전체 영상 링크
+- `Week4_AI_Assessment/prompts.md` : 체크리스트·루브릭·검증 학생 실습용 프롬프트
+- `Week4_AI_Assessment/practice_tasks.md` : 평가도구 초안·수정·최종본 제출 안내
+- `Week4_AI_Assessment/safety_notes.md` : 형평성·성취기준·개인정보·교사 최종판단 원칙
+- `Week4_AI_Assessment/video_guide.md` : 4주차 전체 Scrimba 교육영상 안내
+
 ## 공통 원칙
 
-- 실제 학생의 이름·학번·연락처·얼굴 영상·건강정보 등 개인정보를 외부 AI 서비스에 입력하지 않습니다.
+- 실제 학생의 이름·학번·연락처·얼굴·음성·건강정보 등 개인정보를 외부 AI 서비스에 입력하지 않습니다.
 - AI가 제시한 성취기준·규칙·수치·안전 관련 내용은 필요한 경우 공식 자료와 대조합니다.
 - MediaPipe와 같은 컴퓨터비전 도구의 결과는 추정값이며 촬영 환경에 영향을 받을 수 있습니다.
-- AI가 생성한 코드와 지도안은 반드시 직접 실행·검토·검증합니다.
+- AI가 생성한 코드·지도안·체크리스트·루브릭은 반드시 직접 검토·검증합니다.
+- AI가 학생의 최종 점수나 등급을 자동 확정하지 않습니다.
 - 실제 수업의 목표·활동·평가·안전 판단은 교사가 최종 결정합니다.
 
 > 본 자료의 AI 서비스 화면과 기능은 서비스 업데이트에 따라 달라질 수 있습니다. 중요한 사실·규칙·안전 관련 내용은 공식 자료와 교사의 판단을 통해 확인하세요.
